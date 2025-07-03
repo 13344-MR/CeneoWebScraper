@@ -14,3 +14,4 @@
 | ile osób uznało opinię za nieprzydatną | useless        | button.vote-no["data-total-vote"]                           |
 | data wystawienia opinii                | post_date      | span.user-post\_\_published > time:nth-child(1)["datetime"] |
 | data zakupu produktu                   | purchase_date  | span.user-post\_\_published > time:nth-child(2)["datetime"] |
+
